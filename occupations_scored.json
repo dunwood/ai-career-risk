@@ -3,19 +3,19 @@
     "occupation": "总经理/CEO",
     "score": 4.0,
     "tier": "中等",
-    "rationale": "AI将成为CEO"
+    "rationale": "AI能为总经理"
   },
   {
     "occupation": "副总经理",
     "score": 5.0,
     "tier": "中等",
-    "rationale": "副总经理的核心职责涉及战略规划"
+    "rationale": "AI能显著提升副总经理"
   },
   {
     "occupation": "董事长",
     "score": 3.0,
     "tier": "低",
-    "rationale": "董事长主要负责战略制定、高层"
+    "rationale": "董事长主要职责是制定"
   },
   {
     "occupation": "首席财务官CFO",
@@ -27,85 +27,85 @@
     "occupation": "首席技术官CTO",
     "score": 4.0,
     "tier": "中等",
-    "rationale": "AI可以辅助CTO进行数据"
+    "rationale": "AI将辅助CTO进行数据"
   },
   {
     "occupation": "首席运营官COO",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI将通过数据分析、"
+    "rationale": "AI将显著提升COO在数据"
   },
   {
     "occupation": "首席市场官CMO",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI将大幅提升市场数据分析"
+    "rationale": "AI将极大增强CMO"
   },
   {
     "occupation": "首席人力资源官CHRO",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI将大幅自动化HR运营和数据"
+    "rationale": "CHRO的战略决策、文化"
   },
   {
     "occupation": "部门经理",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI能自动化部门经理的部分数据分析"
+    "rationale": "AI能大幅提升部门经理在"
   },
   {
     "occupation": "项目经理",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI能高效自动化项目规划"
+    "rationale": "AI能显著辅助项目经理进行规划"
   },
   {
     "occupation": "产品经理",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI能显著辅助产品经理"
+    "rationale": "AI能大幅提升产品经理"
   },
   {
     "occupation": "运营总监",
     "score": 6.0,
     "tier": "高",
-    "rationale": "运营总监的许多"
+    "rationale": "AI将大幅提升运营数据分析、"
   },
   {
     "occupation": "市场总监",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI能大幅提升市场分析、趋势"
+    "rationale": "市场总监的许多分析"
   },
   {
     "occupation": "销售总监",
     "score": 6.0,
     "tier": "高",
-    "rationale": "销售总监的战略规划、"
+    "rationale": "销售总监需要制定"
   },
   {
     "occupation": "人力资源总监",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI将大幅提升HR部门的"
+    "rationale": "AI将显著自动化招聘、绩效管理"
   },
   {
     "occupation": "财务总监",
     "score": 6.0,
     "tier": "高",
-    "rationale": "财务总监的核心职责"
+    "rationale": "AI将大幅提升财务"
   },
   {
     "occupation": "行政总监",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI能自动化行政总监的许多"
+    "rationale": "行政总监的部分日常管理和"
   },
   {
     "occupation": "创业者/企业主",
-    "score": 4.0,
-    "tier": "中等",
-    "rationale": "AI能为创业者提供强大的"
+    "score": 6.0,
+    "tier": "高",
+    "rationale": "AI将极大地赋能创业"
   },
   {
     "occupation": "合伙人",
@@ -117,139 +117,139 @@
     "occupation": "风险投资人",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI能显著辅助风险投资人在项目"
+    "rationale": "AI将显著提升风险投资"
   },
   {
     "occupation": "私募基金经理",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能大幅提升私募基金经理在市场"
+    "rationale": "私募基金经理的部分核心任务，如市场"
   },
   {
     "occupation": "软件工程师",
-    "score": 9.0,
+    "score": 8.0,
     "tier": "极高",
-    "rationale": "AI在代码生成、测试、"
+    "rationale": "AI在代码生成、"
   },
   {
     "occupation": "前端工程师",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "AI在代码生成"
+    "rationale": "AI在代码生成、UI组件"
   },
   {
     "occupation": "后端工程师",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "AI能大幅提升后端工程师"
+    "rationale": "AI将极大地提升后端工程师"
   },
   {
     "occupation": "全栈工程师",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "AI将大幅提升全栈"
+    "rationale": "AI工具能大幅提升"
   },
   {
     "occupation": "移动端开发工程师（iOS）",
-    "score": 8.0,
-    "tier": "极高",
-    "rationale": "AI在代码生成、调试、"
+    "score": 7.0,
+    "tier": "高",
+    "rationale": "AI在代码生成、调试辅助和"
   },
   {
     "occupation": "移动端开发工程师（Android）",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "AI在代码生成、调试"
+    "rationale": "AI在代码生成、"
   },
   {
     "occupation": "算法工程师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI工具和AutoML平台能大幅"
+    "rationale": "AI工具将大幅提升算法工程师的"
   },
   {
     "occupation": "机器学习工程师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI工具和平台将大幅提升"
+    "rationale": "机器学习工程师的核心任务，如模型选择"
   },
   {
     "occupation": "深度学习工程师",
-    "score": 7.0,
-    "tier": "高",
-    "rationale": "AI工具和自动化平台将大幅提升"
+    "score": 8.0,
+    "tier": "极高",
+    "rationale": "AI工具和自动化机器学习（"
   },
   {
     "occupation": "数据科学家",
-    "score": 7.0,
-    "tier": "高",
-    "rationale": "AI工具和自动化平台将大幅提升"
+    "score": 8.0,
+    "tier": "极高",
+    "rationale": "AI工具和自动化平台"
   },
   {
     "occupation": "数据分析师",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "AI能高度自动化数据清洗"
+    "rationale": "AI能高度自动化数据"
   },
   {
     "occupation": "数据工程师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI工具和自动化平台将大幅提升"
+    "rationale": "AI将显著提升数据管道设计、"
   },
   {
     "occupation": "商业智能分析师",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "AI能高度自动化"
+    "rationale": "AI能高度自动化数据收集"
   },
   {
     "occupation": "DevOps工程师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能自动化DevOps工程师的部分重复"
+    "rationale": "AI能大幅辅助Dev"
   },
   {
     "occupation": "云计算工程师",
-    "score": 6.0,
+    "score": 7.0,
     "tier": "高",
-    "rationale": "AI将显著提升云计算基础设施的自动化"
+    "rationale": "AI将大幅提升云计算环境的"
   },
   {
     "occupation": "网络安全工程师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI将大幅提升网络安全监控、"
+    "rationale": "AI能大幅提升网络安全威胁检测"
   },
   {
     "occupation": "系统架构师",
-    "score": 6.0,
+    "score": 7.0,
     "tier": "高",
-    "rationale": "AI能辅助系统架构师进行"
+    "rationale": "AI可以辅助系统架构师进行设计"
   },
   {
     "occupation": "数据库管理员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI和自动化技术能高效执行数据库"
+    "rationale": "AI在数据库监控、性能优化、"
   },
   {
     "occupation": "Linux运维工程师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI将大幅提升Linux运维"
+    "rationale": "AI将大幅提升自动化运维能力，"
   },
   {
     "occupation": "测试工程师",
-    "score": 8.0,
-    "tier": "极高",
-    "rationale": "AI能直接自动化测试"
+    "score": 7.0,
+    "tier": "高",
+    "rationale": "AI能显著自动化测试"
   },
   {
     "occupation": "自动化测试工程师",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "AI可以直接生成测试用例、"
+    "rationale": "AI在生成测试用"
   },
   {
     "occupation": "嵌入式软件工程师",
@@ -259,339 +259,339 @@
   },
   {
     "occupation": "区块链开发工程师",
-    "score": 8.0,
-    "tier": "极高",
-    "rationale": "AI在代码生成、智能合约"
+    "score": 7.0,
+    "tier": "高",
+    "rationale": "AI可以大幅提升区块链开发工程师的"
   },
   {
     "occupation": "游戏开发工程师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI将显著提升游戏开发工程师"
+    "rationale": "AI在代码生成、调试优化"
   },
   {
     "occupation": "AR/VR开发工程师",
-    "score": 7.0,
+    "score": 6.0,
     "tier": "高",
-    "rationale": "AI将大幅提升AR/"
+    "rationale": "AI在3D模型生成"
   },
   {
     "occupation": "人工智能研究员",
-    "score": 6.0,
+    "score": 7.0,
     "tier": "高",
-    "rationale": "AI将成为人工智能研究员的强大"
+    "rationale": "人工智能研究员将大量利用AI工具"
   },
   {
     "occupation": "计算机视觉工程师",
-    "score": 8.0,
-    "tier": "极高",
-    "rationale": "AI工具和自动化平台将大幅"
+    "score": 7.0,
+    "tier": "高",
+    "rationale": "AI工具和自动化MLOps平台将"
   },
   {
     "occupation": "自然语言处理工程师",
-    "score": 8.0,
-    "tier": "极高",
-    "rationale": "AI工具（如大型"
+    "score": 7.0,
+    "tier": "高",
+    "rationale": "自然语言处理工程师的核心任务"
   },
   {
     "occupation": "推荐系统工程师",
-    "score": 8.0,
-    "tier": "极高",
-    "rationale": "AI工具能大幅自动化"
+    "score": 7.0,
+    "tier": "高",
+    "rationale": "推荐系统工程师的核心工作涉及数据"
   },
   {
     "occupation": "搜索引擎工程师",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "搜索引擎工程师的核心工作涉及"
+    "rationale": "AI将直接辅助搜索引擎工程师进行"
   },
   {
     "occupation": "大数据工程师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI将自动化大数据工程师的部分ETL"
+    "rationale": "AI将大幅提升大数据"
   },
   {
     "occupation": "爬虫工程师",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "AI可以直接生成爬"
+    "rationale": "AI可以直接生成爬虫代码、"
   },
   {
     "occupation": "网络工程师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI将大幅自动化网络监控、"
+    "rationale": "AI将大幅自动化网络监控、故障"
   },
   {
     "occupation": "信息安全分析师",
-    "score": 6.0,
+    "score": 7.0,
     "tier": "高",
-    "rationale": "AI将大幅提升信息"
+    "rationale": "AI将大幅提升信息安全分析"
   },
   {
     "occupation": "产品经理（互联网）",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能大幅提升产品"
+    "rationale": "AI能大幅提升产品经理在市场"
   },
   {
     "occupation": "产品运营",
     "score": 7.0,
     "tier": "高",
-    "rationale": "产品运营涉及大量数据分析、用户"
+    "rationale": "产品运营的核心任务如数据"
   },
   {
     "occupation": "用户研究员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高效处理用户行为数据、"
+    "rationale": "AI能大幅提升用户研究的效率"
   },
   {
     "occupation": "UI设计师",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "AI在UI设计"
+    "rationale": "AI工具能直接"
   },
   {
     "occupation": "UX设计师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能显著辅助UX"
+    "rationale": "AI可以显著自动化UX设计中的重复"
   },
   {
     "occupation": "交互设计师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能自动化用户研究数据分析、"
+    "rationale": "AI能自动化部分用户研究分析、"
   },
   {
     "occupation": "视觉设计师",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "AI在图像生成、风格迁移"
+    "rationale": "AI图像生成工具（如Mid"
   },
   {
     "occupation": "平面设计师",
-    "score": 9.0,
+    "score": 8.0,
     "tier": "极高",
-    "rationale": "AI在图像生成、"
+    "rationale": "AI在图像生成、布局设计"
   },
   {
     "occupation": "品牌设计师",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "AI在品牌设计领域能直接"
+    "rationale": "AI在图像生成、"
   },
   {
     "occupation": "动效设计师",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "AI在生成动画、自动化关键"
+    "rationale": "AI在动效设计领域"
   },
   {
     "occupation": "3D设计师",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "AI在3D设计领域展现"
+    "rationale": "AI在3D建模"
   },
   {
     "occupation": "工业设计师",
-    "score": 7.0,
-    "tier": "高",
-    "rationale": "AI在概念生成、"
+    "score": 8.0,
+    "tier": "极高",
+    "rationale": "AI在概念生成、3"
   },
   {
     "occupation": "室内设计师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能大幅自动化室内设计中的概念"
+    "rationale": "AI能高效生成设计方案"
   },
   {
     "occupation": "景观设计师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI将显著提升景观设计师的工作"
+    "rationale": "AI可以高效自动化景观设计中的"
   },
   {
     "occupation": "建筑设计师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI将大幅提升建筑设计师在概念"
+    "rationale": "AI能大幅提升建筑设计师在"
   },
   {
     "occupation": "服装设计师",
-    "score": 7.0,
-    "tier": "高",
-    "rationale": "AI能大幅辅助服装设计师进行"
+    "score": 8.0,
+    "tier": "极高",
+    "rationale": "AI能直接生成设计草图"
   },
   {
     "occupation": "珠宝设计师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能通过生成式设计工具辅助"
+    "rationale": "AI能通过生成式设计辅助概念"
   },
   {
     "occupation": "字体设计师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI可以辅助生成字形、优化"
+    "rationale": "AI在字体生成、风格"
   },
   {
     "occupation": "市场营销专员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "市场营销专员的许多核心"
+    "rationale": "AI能直接自动化市场"
   },
   {
     "occupation": "品牌经理",
     "score": 7.0,
     "tier": "高",
-    "rationale": "品牌经理的许多核心任务，"
+    "rationale": "AI能大幅自动化市场研究、"
   },
   {
     "occupation": "公关经理",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高效辅助公关经理进行"
+    "rationale": "AI能高效生成新闻稿、"
   },
   {
     "occupation": "广告策划",
-    "score": 7.0,
-    "tier": "高",
-    "rationale": "广告策划的核心任务如市场分析、"
+    "score": 8.0,
+    "tier": "极高",
+    "rationale": "AI能高效分析市场"
   },
   {
     "occupation": "SEO优化师",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "AI能直接自动化"
+    "rationale": "AI能高效自动化关键词研究、"
   },
   {
     "occupation": "SEM投放专员",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "SEM投放专员的核心任务如"
+    "rationale": "AI在关键词研究、广告文"
   },
   {
     "occupation": "社交媒体运营",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "AI能高效自动化内容生成、"
+    "rationale": "AI能高效生成文案、"
   },
   {
     "occupation": "内容运营",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "AI在内容生成、数据"
+    "rationale": "AI能直接自动化内容创作"
   },
   {
     "occupation": "社区运营",
-    "score": 7.0,
+    "score": 6.0,
     "tier": "高",
-    "rationale": "AI能高效辅助社区运营进行"
+    "rationale": "社区运营涉及大量内容创作、数据"
   },
   {
     "occupation": "用户运营",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高效分析用户"
+    "rationale": "AI能高度自动化用户"
   },
   {
     "occupation": "活动运营",
     "score": 7.0,
     "tier": "高",
-    "rationale": "活动运营的文案创作、数据"
+    "rationale": "活动运营涉及大量数据分析、内容"
   },
   {
     "occupation": "电商运营",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "AI能直接自动化商品管理"
+    "rationale": "电商运营的许多核心任务"
   },
   {
     "occupation": "天猫/京东店铺运营",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高效自动化商品管理"
+    "rationale": "AI能高度自动化商品管理、数据"
   },
   {
     "occupation": "拼多多运营",
-    "score": 8.0,
-    "tier": "极高",
-    "rationale": "拼多多运营的核心"
+    "score": 7.0,
+    "tier": "高",
+    "rationale": "拼多多运营涉及大量数据分析"
   },
   {
     "occupation": "直播运营",
     "score": 7.0,
     "tier": "高",
-    "rationale": "直播运营涉及大量数据分析、"
+    "rationale": "AI能高效分析直播数据、优化"
   },
   {
     "occupation": "抖音运营",
-    "score": 8.0,
-    "tier": "极高",
-    "rationale": "抖音运营的核心任务，"
+    "score": 7.0,
+    "tier": "高",
+    "rationale": "AI能高效分析数据、生成内容"
   },
   {
     "occupation": "小红书运营",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "小红书运营的核心任务如"
+    "rationale": "AI能极大地自动化小红"
   },
   {
     "occupation": "视频号运营",
-    "score": 8.0,
-    "tier": "极高",
-    "rationale": "AI在内容策划、脚本"
+    "score": 7.0,
+    "tier": "高",
+    "rationale": "AI能高效辅助视频内容策划"
   },
   {
     "occupation": "MCN机构运营",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高效分析内容"
+    "rationale": "MCN机构运营涉及大量数据分析"
   },
   {
     "occupation": "网红/KOL经纪人",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高效分析数据、匹配品牌"
+    "rationale": "AI能高效完成网红"
   },
   {
     "occupation": "主播经纪人",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI能高效分析直播数据、观众"
+    "rationale": "AI能高效分析直播数据、优化"
   },
   {
     "occupation": "新媒体编辑",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "AI在内容生成（文"
+    "rationale": "AI能直接自动化新媒体编辑"
   },
   {
     "occupation": "内容创作者",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "AI可以直接生成文本、图片、"
+    "rationale": "AI能直接自动化"
   },
   {
     "occupation": "短视频博主",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI可以大幅辅助短视频博主"
+    "rationale": "AI能大幅辅助短视频博主"
   },
   {
     "occupation": "播客主播",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI可以大幅辅助播"
+    "rationale": "AI可以大幅辅助播客主播进行"
   },
   {
     "occupation": "直播带货主播",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI可以直接生成虚拟主播"
+    "rationale": "AI可以高度自动化产品介绍、"
   },
   {
     "occupation": "电商客服",
@@ -601,27 +601,27 @@
   },
   {
     "occupation": "跨境电商运营",
-    "score": 8.0,
-    "tier": "极高",
-    "rationale": "跨境电商运营涉及大量数据分析"
+    "score": 7.0,
+    "tier": "高",
+    "rationale": "跨境电商运营涉及大量"
   },
   {
     "occupation": "销售代表",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI能大幅优化销售流程，通过"
+    "rationale": "AI能显著优化销售流程，从"
   },
   {
     "occupation": "大客户销售",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI能大幅提升大客户销售"
+    "rationale": "AI将大幅提升大客户销售的"
   },
   {
     "occupation": "渠道销售",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI能大幅提升渠道销售的数据分析"
+    "rationale": "AI能大幅提升渠道销售"
   },
   {
     "occupation": "电话销售",
@@ -633,175 +633,175 @@
     "occupation": "房产销售顾问",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI能高效处理房产"
+    "rationale": "AI能高效处理房源匹配、"
   },
   {
     "occupation": "汽车销售顾问",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI可以自动化汽车销售顾问的部分信息"
+    "rationale": "AI可以自动化汽车销售顾问的部分"
   },
   {
     "occupation": "保险销售代理",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI可以高效自动化保险"
+    "rationale": "AI将大幅自动化保险产品的介绍"
   },
   {
     "occupation": "金融产品销售",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能大幅优化金融产品销售的"
+    "rationale": "AI能高效分析客户"
   },
   {
     "occupation": "医疗器械销售",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI能显著优化市场分析、客户"
+    "rationale": "AI可大幅优化市场分析、"
   },
   {
     "occupation": "药品销售代表",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI能高效分析医生"
+    "rationale": "AI能高效分析市场"
   },
   {
     "occupation": "软件销售（SaaS）",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI将大幅优化SaaS销售"
+    "rationale": "AI将大幅优化SaaS销售的"
   },
   {
     "occupation": "广告销售",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI能自动化广告销售的部分流程"
+    "rationale": "AI能显著提升广告"
   },
   {
     "occupation": "猎头顾问",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高效自动化简历筛选"
+    "rationale": "AI能高效自动化人才搜索、初步"
   },
   {
     "occupation": "商务拓展BD",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI能大幅提升商务拓展在"
+    "rationale": "AI能显著提升商务拓展在市场"
   },
   {
     "occupation": "银行柜员",
-    "score": 8.0,
+    "score": 9.0,
     "tier": "极高",
-    "rationale": "银行柜员的"
+    "rationale": "银行柜员的绝大多数"
   },
   {
     "occupation": "银行客户经理",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能自动化银行客户经理的"
+    "rationale": "AI能高效分析客户数据、推荐"
   },
   {
     "occupation": "信贷审核员",
-    "score": 8.0,
-    "tier": "极高",
-    "rationale": "AI在数据收集、信用评估"
+    "score": 7.0,
+    "tier": "高",
+    "rationale": "信贷审核的核心任务如数据收集"
   },
   {
     "occupation": "风险管理师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI在数据收集、风险"
+    "rationale": "AI能高效处理海量数据"
   },
   {
     "occupation": "基金经理",
-    "score": 8.0,
-    "tier": "极高",
-    "rationale": "基金经理的核心任务，"
+    "score": 7.0,
+    "tier": "高",
+    "rationale": "AI在数据分析、市场"
   },
   {
     "occupation": "证券分析师",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "AI能极大地自动化证券分析"
+    "rationale": "证券分析师的核心任务如数据"
   },
   {
     "occupation": "股票经纪人",
-    "score": 8.0,
-    "tier": "极高",
-    "rationale": "AI能高度自动化股票交易执行"
+    "score": 7.0,
+    "tier": "高",
+    "rationale": "AI能直接自动化股票交易"
   },
   {
     "occupation": "期货交易员",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "AI能高效执行"
+    "rationale": "AI在数据分析"
   },
   {
     "occupation": "投资银行分析师",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "AI能高效自动化"
+    "rationale": "AI能极大地自动化"
   },
   {
     "occupation": "资产管理经理",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高效处理海量金融数据"
+    "rationale": "AI能高效处理海量市场"
   },
   {
     "occupation": "财务分析师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "财务分析师的核心任务如数据收集"
+    "rationale": "财务分析师的核心任务"
   },
   {
     "occupation": "注册会计师CPA",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高效自动化注册会计师"
+    "rationale": "AI能高效处理大量财务数据、"
   },
   {
     "occupation": "审计师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高效自动化审计"
+    "rationale": "AI能高效自动化审计中的数据"
   },
   {
     "occupation": "税务师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "税务师的日常税务计算、申报"
+    "rationale": "税务师的许多核心"
   },
   {
     "occupation": "精算师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI在数据收集、复杂"
+    "rationale": "精算师的核心任务涉及大量"
   },
   {
     "occupation": "理财规划师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高效处理数据分析、投资"
+    "rationale": "AI能高效处理数据分析、"
   },
   {
     "occupation": "保险精算师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "保险精算师的核心任务涉及"
+    "rationale": "AI能高效处理海"
   },
   {
     "occupation": "保险理赔员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高效处理大量理"
+    "rationale": "保险理赔员的许多"
   },
   {
     "occupation": "合规专员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "合规专员的法规研究、"
+    "rationale": "合规专员的核心工作涉及大量"
   },
   {
     "occupation": "量化分析师",
@@ -811,99 +811,99 @@
   },
   {
     "occupation": "外汇交易员",
-    "score": 9.0,
+    "score": 8.0,
     "tier": "极高",
-    "rationale": "外汇交易高度依赖数据分析"
+    "rationale": "AI在数据分析"
   },
   {
     "occupation": "债券交易员",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "AI在债券交易"
+    "rationale": "AI能极大地"
   },
   {
     "occupation": "律师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI在法律研究、"
+    "rationale": "AI在法律研究、合同"
   },
   {
     "occupation": "法官",
     "score": 5.0,
     "tier": "中等",
-    "rationale": "AI可以极大地"
+    "rationale": "AI可以辅助法官"
   },
   {
     "occupation": "检察官",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI可显著提升检察官在"
+    "rationale": "AI能极大辅助检察官进行证据"
   },
   {
     "occupation": "法律顾问",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高效完成法律研究、"
+    "rationale": "AI能高效执行法律研究、"
   },
   {
     "occupation": "合同审核员",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "合同审核涉及大量"
+    "rationale": "合同审核涉及大量文本阅读"
   },
   {
     "occupation": "知识产权律师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能极大地自动化知识产权律师"
+    "rationale": "AI能显著提升知识产权律师"
   },
   {
     "occupation": "专利代理师",
-    "score": 7.0,
-    "tier": "高",
-    "rationale": "AI能显著提升专利"
+    "score": 8.0,
+    "tier": "极高",
+    "rationale": "AI在专利检索、"
   },
   {
     "occupation": "法务专员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "法务专员的合同审查"
+    "rationale": "AI在合同审查、"
   },
   {
     "occupation": "仲裁员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高效处理证据"
+    "rationale": "AI可以极大地辅助仲"
   },
   {
     "occupation": "公证员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "公证员的核心任务涉及大量文档"
+    "rationale": "AI能高效自动化文档审核、身份"
   },
   {
     "occupation": "法院书记员",
-    "score": 9.0,
+    "score": 8.0,
     "tier": "极高",
-    "rationale": "法院书记员的核心工作包括"
+    "rationale": "法院书记员的核心工作如"
   },
   {
     "occupation": "招聘专员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高效自动化简历筛选"
+    "rationale": "AI可以高效自动化简历筛选、"
   },
   {
     "occupation": "人力资源BP",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高效自动化HRBP在招聘"
+    "rationale": "AI将直接自动化HRBP"
   },
   {
     "occupation": "薪酬福利专员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "薪酬福利专员的核心任务"
+    "rationale": "薪酬福利专员的许多"
   },
   {
     "occupation": "培训师",
@@ -913,7 +913,7 @@
   },
   {
     "occupation": "组织发展顾问",
-    "score": 6.0,
+    "score": 7.0,
     "tier": "高",
     "rationale": "AI能高效分析组织数据、"
   },
@@ -921,19 +921,19 @@
     "occupation": "劳动关系专员",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI能高效处理劳动法规查询、"
+    "rationale": "AI能高效处理劳动法规"
   },
   {
     "occupation": "职业规划师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高效分析海量市场数据"
+    "rationale": "AI能高效完成职业信息收集"
   },
   {
     "occupation": "HRBP",
-    "score": 6.0,
+    "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高效处理HRBP的部分事务"
+    "rationale": "AI能高效处理HRBP的许多"
   },
   {
     "occupation": "行政助理",
@@ -943,171 +943,171 @@
   },
   {
     "occupation": "秘书",
-    "score": 8.0,
-    "tier": "极高",
-    "rationale": "秘书的许多核心任务，如"
+    "score": 7.0,
+    "tier": "高",
+    "rationale": "秘书的许多核心任务，如日程"
   },
   {
     "occupation": "前台接待",
-    "score": 8.0,
-    "tier": "极高",
-    "rationale": "前台接待的许多"
+    "score": 7.0,
+    "tier": "高",
+    "rationale": "前台接待的许多核心任务，"
   },
   {
     "occupation": "行政专员",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "行政专员的许多"
+    "rationale": "行政专员的许多核心"
   },
   {
     "occupation": "办公室主任",
-    "score": 7.0,
+    "score": 6.0,
     "tier": "高",
-    "rationale": "办公室主任的许多核心任务，"
+    "rationale": "办公室主任的许多行政、协调和"
   },
   {
     "occupation": "档案管理员",
-    "score": 7.0,
-    "tier": "高",
-    "rationale": "AI在档案分类、编目"
+    "score": 8.0,
+    "tier": "极高",
+    "rationale": "档案管理员的核心任务"
   },
   {
     "occupation": "会议组织专员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI可以高度自动化会议的日程"
+    "rationale": "AI可以高度自动化会议组织中的重复"
   },
   {
     "occupation": "小学教师",
     "score": 5.0,
     "tier": "中等",
-    "rationale": "AI能辅助小学教师进行备"
+    "rationale": "AI可以辅助小学教师进行备"
   },
   {
     "occupation": "初中教师",
     "score": 5.0,
     "tier": "中等",
-    "rationale": "AI能辅助教师进行备"
+    "rationale": "AI可以辅助初中"
   },
   {
     "occupation": "高中教师",
     "score": 5.0,
     "tier": "中等",
-    "rationale": "AI能辅助高中教师进行"
+    "rationale": "AI能辅助高中教师"
   },
   {
     "occupation": "大学教授",
-    "score": 6.0,
+    "score": 7.0,
     "tier": "高",
-    "rationale": "AI能大幅辅助大学教授的教学"
+    "rationale": "AI能大幅辅助大学"
   },
   {
     "occupation": "幼儿园教师",
     "score": 4.0,
     "tier": "中等",
-    "rationale": "AI可以辅助幼儿园教师进行课程"
+    "rationale": "幼儿园教师的核心工作涉及情感"
   },
   {
     "occupation": "特殊教育教师",
     "score": 4.0,
     "tier": "中等",
-    "rationale": "AI可以辅助特殊教育"
+    "rationale": "AI可以辅助特殊"
   },
   {
     "occupation": "职业培训讲师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI可以高效生成定制化的培训内容"
+    "rationale": "AI能高效生成定制化"
   },
   {
     "occupation": "英语培训教师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高效生成教学内容、提供"
+    "rationale": "AI能直接自动化英语"
   },
   {
     "occupation": "数学培训教师",
-    "score": 6.0,
+    "score": 7.0,
     "tier": "高",
-    "rationale": "AI可以高效自动化数学知识"
+    "rationale": "AI可以高效自动化数学知识的"
   },
   {
     "occupation": "艺术培训教师",
     "score": 5.0,
     "tier": "中等",
-    "rationale": "AI可以辅助艺术培训教师"
+    "rationale": "AI可以辅助艺术培训"
   },
   {
     "occupation": "在线教育讲师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高效生成课程内容"
+    "rationale": "AI能高效生成课程内容、辅助"
   },
   {
     "occupation": "教育产品运营",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高效完成市场分析、"
+    "rationale": "教育产品运营涉及市场分析、内容"
   },
   {
     "occupation": "学校管理人员",
-    "score": 7.0,
+    "score": 6.0,
     "tier": "高",
-    "rationale": "学校管理人员的许多"
+    "rationale": "学校管理人员的许多行政、排"
   },
   {
     "occupation": "辅导员",
     "score": 5.0,
     "tier": "中等",
-    "rationale": "AI能高效处理辅"
+    "rationale": "辅导员的部分信息提供"
   },
   {
     "occupation": "心理咨询师（学校）",
     "score": 5.0,
     "tier": "中等",
-    "rationale": "AI可辅助心理"
+    "rationale": "AI可以辅助心理咨询师进行"
   },
   {
     "occupation": "教研员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高效分析教育数据、"
+    "rationale": "AI能高效辅助教研员"
   },
   {
     "occupation": "医生（内科）",
     "score": 5.0,
     "tier": "中等",
-    "rationale": "AI将显著辅助内科"
+    "rationale": "AI将显著辅助内科医生"
   },
   {
     "occupation": "医生（外科）",
     "score": 5.0,
     "tier": "中等",
-    "rationale": "AI在术前规划、影像"
+    "rationale": "AI将显著辅助外科医生进行"
   },
   {
     "occupation": "医生（儿科）",
     "score": 5.0,
     "tier": "中等",
-    "rationale": "AI能辅助儿科"
+    "rationale": "AI将显著辅助儿科"
   },
   {
     "occupation": "医生（妇产科）",
     "score": 5.0,
     "tier": "中等",
-    "rationale": "AI能辅助妇产科医生"
+    "rationale": "AI将辅助妇产科"
   },
   {
     "occupation": "医生（精神科）",
-    "score": 6.0,
-    "tier": "高",
-    "rationale": "AI能辅助精神科医生"
+    "score": 5.0,
+    "tier": "中等",
+    "rationale": "AI可辅助精神"
   },
   {
     "occupation": "医生（急诊）",
     "score": 5.0,
     "tier": "中等",
-    "rationale": "AI将大幅提升"
+    "rationale": "AI将显著辅助急诊医生"
   },
   {
     "occupation": "中医师",
@@ -1119,19 +1119,19 @@
     "occupation": "口腔科医生",
     "score": 5.0,
     "tier": "中等",
-    "rationale": "AI能显著辅助口腔科"
+    "rationale": "AI在诊断辅助（如影像"
   },
   {
     "occupation": "眼科医生",
-    "score": 5.0,
-    "tier": "中等",
-    "rationale": "AI在眼科诊断"
+    "score": 6.0,
+    "tier": "高",
+    "rationale": "AI在眼科诊断方面具有极"
   },
   {
     "occupation": "皮肤科医生",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI在皮肤病诊断（图像识别"
+    "rationale": "AI在皮肤病图像识别"
   },
   {
     "occupation": "护士",
@@ -1149,115 +1149,115 @@
     "occupation": "助产士",
     "score": 3.0,
     "tier": "低",
-    "rationale": "助产士的核心工作涉及大量"
+    "rationale": "助产士的核心工作涉及大量人"
   },
   {
     "occupation": "药剂师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI在药物配发、药物"
+    "rationale": "AI在处方审核、"
   },
   {
     "occupation": "放射科技师",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI在图像质量评估、参数优化"
+    "rationale": "AI可辅助优化成像参数、自动"
   },
   {
     "occupation": "检验科技师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI在图像识别、数据分析和"
+    "rationale": "AI在检验科技师领域"
   },
   {
     "occupation": "康复治疗师",
     "score": 5.0,
     "tier": "中等",
-    "rationale": "AI可辅助康复治疗师"
+    "rationale": "AI可以辅助康复治疗"
   },
   {
     "occupation": "营养师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI可以高效分析个人健康数据、"
+    "rationale": "AI能高效分析海量"
   },
   {
     "occupation": "心理咨询师",
-    "score": 5.0,
-    "tier": "中等",
-    "rationale": "AI可以辅助心理咨询"
+    "score": 6.0,
+    "tier": "高",
+    "rationale": "AI可以承担心理咨询的初步"
   },
   {
     "occupation": "社会工作者",
     "score": 4.0,
     "tier": "中等",
-    "rationale": "社会工作核心在于人际互动"
+    "rationale": "社会工作核心在于"
   },
   {
     "occupation": "医院行政管理",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI可高度自动化医院行政管理中的"
+    "rationale": "医院行政管理涉及大量"
   },
   {
     "occupation": "医疗器械工程师",
-    "score": 7.0,
+    "score": 6.0,
     "tier": "高",
-    "rationale": "AI能显著辅助医疗器械工程师"
+    "rationale": "AI能显著辅助医疗器械"
   },
   {
     "occupation": "临床研究协调员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI可显著自动化数据收集"
+    "rationale": "AI能高效辅助数据管理、合"
   },
   {
     "occupation": "公共卫生专员",
-    "score": 7.0,
+    "score": 6.0,
     "tier": "高",
-    "rationale": "公共卫生专员的核心任务涉及大量"
+    "rationale": "公共卫生专员涉及大量"
   },
   {
     "occupation": "疾控中心人员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能显著提升疾控"
+    "rationale": "疾控中心人员的核心工作"
   },
   {
     "occupation": "中药师",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI可高度自动化中药配方"
+    "rationale": "AI在处方调配、"
   },
   {
     "occupation": "物理学研究员",
-    "score": 6.0,
+    "score": 7.0,
     "tier": "高",
-    "rationale": "AI能大幅提升数据分析、模拟"
+    "rationale": "AI能极大地加速"
   },
   {
     "occupation": "化学研究员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI在化学研究中能大幅提升"
+    "rationale": "AI在数据分析、文献综"
   },
   {
     "occupation": "生物学研究员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI将极大地自动化生物数据"
+    "rationale": "AI能显著加速生物学"
   },
   {
     "occupation": "材料科学研究员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能极大辅助材料科学研究员"
+    "rationale": "AI能极大加速材料科学研究"
   },
   {
     "occupation": "环境科学研究员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "环境科学研究员的数据"
+    "rationale": "AI能极大地自动化环境数据分析"
   },
   {
     "occupation": "经济学研究员",
@@ -1269,367 +1269,367 @@
     "occupation": "社会学研究员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能显著提升社会学"
+    "rationale": "AI能高效处理文献综述、"
   },
   {
     "occupation": "历史学研究员",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI能极大地辅助"
+    "rationale": "AI能极大辅助历史文献的检索"
   },
   {
     "occupation": "哲学研究员",
-    "score": 5.0,
-    "tier": "中等",
-    "rationale": "AI可以辅助哲学研究员进行"
+    "score": 6.0,
+    "tier": "高",
+    "rationale": "AI能高效辅助哲学研究员"
   },
   {
     "occupation": "博士后研究员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI在数据分析、文献综述"
+    "rationale": "博士后研究员的核心任务"
   },
   {
     "occupation": "科研项目管理员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高效自动化科研项目管理员的"
+    "rationale": "科研项目管理员涉及大量文档管理、"
   },
   {
     "occupation": "实验室技术员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI在自动化样本处理、数据"
+    "rationale": "AI和自动化技术能高效"
   },
   {
     "occupation": "记者",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高效完成新闻稿件"
+    "rationale": "AI能高度自动化新闻稿件"
   },
   {
     "occupation": "编辑",
-    "score": 8.0,
-    "tier": "极高",
-    "rationale": "AI在语法校对、"
+    "score": 7.0,
+    "tier": "高",
+    "rationale": "AI在内容生成、语法修正"
   },
   {
     "occupation": "出版编辑",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高效执行文字"
+    "rationale": "AI在文字校对、语法"
   },
   {
     "occupation": "图书编辑",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI在文字校对、语法修正"
+    "rationale": "AI在文字校对、"
   },
   {
     "occupation": "影视导演",
-    "score": 5.0,
-    "tier": "中等",
-    "rationale": "AI可以辅助剧本分析"
+    "score": 6.0,
+    "tier": "高",
+    "rationale": "AI在剧本分析、"
   },
   {
     "occupation": "电影编剧",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能辅助编剧进行创意生成"
+    "rationale": "AI可以辅助电影编剧进行创意"
   },
   {
     "occupation": "纪录片导演",
-    "score": 6.0,
-    "tier": "高",
-    "rationale": "AI能大幅辅助纪录片导演"
+    "score": 5.0,
+    "tier": "中等",
+    "rationale": "AI可以辅助纪录片导演进行"
   },
   {
     "occupation": "广告导演",
     "score": 7.0,
     "tier": "高",
-    "rationale": "广告导演的核心创意和策略"
+    "rationale": "AI能高效分析市场趋势、生成"
   },
   {
     "occupation": "摄影师",
-    "score": 7.0,
-    "tier": "高",
+    "score": 8.0,
+    "tier": "极高",
     "rationale": "AI在摄影后期处理（"
   },
   {
     "occupation": "摄像师",
-    "score": 7.0,
+    "score": 6.0,
     "tier": "高",
-    "rationale": "AI在摄像领域能直接自动化部分"
+    "rationale": "AI在自动化拍摄（如智能"
   },
   {
     "occupation": "剪辑师",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "AI在视频剪辑领域已"
+    "rationale": "AI在素材筛选、粗"
   },
   {
     "occupation": "后期制作",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "AI在视频剪辑、色彩"
+    "rationale": "AI在视频剪辑"
   },
   {
     "occupation": "配音演员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI在语音合成和"
+    "rationale": "AI语音合成技术已能模仿人类"
   },
   {
     "occupation": "主持人",
-    "score": 6.0,
+    "score": 7.0,
     "tier": "高",
-    "rationale": "AI在生成脚本、虚拟形象和"
+    "rationale": "AI虚拟主持人已能在新闻播"
   },
   {
     "occupation": "播音员",
-    "score": 8.0,
-    "tier": "极高",
-    "rationale": "AI在语音合成、情感"
+    "score": 7.0,
+    "tier": "高",
+    "rationale": "AI在语音合成、情感表达和"
   },
   {
     "occupation": "演员",
-    "score": 6.0,
-    "tier": "高",
-    "rationale": "AI在数字人、虚拟偶像、"
+    "score": 5.0,
+    "tier": "中等",
+    "rationale": "AI在数字替身、"
   },
   {
     "occupation": "音乐人",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI在音乐创作（旋"
+    "rationale": "AI在音乐创作、编曲、"
   },
   {
     "occupation": "作曲家",
-    "score": 7.0,
-    "tier": "高",
-    "rationale": "AI在音乐生成方面已取得"
+    "score": 8.0,
+    "tier": "极高",
+    "rationale": "AI在旋律、"
   },
   {
     "occupation": "词曲作者",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI在旋律、和声、"
+    "rationale": "AI在旋律、"
   },
   {
     "occupation": "音乐制作人",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI在音乐创作、编曲、"
+    "rationale": "AI在音乐创作、编"
   },
   {
     "occupation": "游戏策划",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高效辅助游戏策划"
+    "rationale": "AI能高效辅助游戏数值平衡、"
   },
   {
     "occupation": "动漫编剧",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI在未来5-10"
+    "rationale": "AI能大幅辅助动漫编剧进行"
   },
   {
     "occupation": "漫画家",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "AI在图像生成、风格"
+    "rationale": "AI在图像生成、风格迁移"
   },
   {
     "occupation": "插画师",
-    "score": 8.0,
+    "score": 9.0,
     "tier": "极高",
-    "rationale": "AI生成工具能直接从文本"
+    "rationale": "AI图像生成工具可以直接根据文本"
   },
   {
     "occupation": "翻译（笔译）",
     "score": 9.0,
     "tier": "极高",
-    "rationale": "AI在笔译领域已"
+    "rationale": "AI在笔译"
   },
   {
     "occupation": "翻译（口译）",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "AI在语音识别和机器"
+    "rationale": "AI在语音识别、"
   },
   {
     "occupation": "速记员",
     "score": 9.0,
     "tier": "极高",
-    "rationale": "AI语音识别技术已非常成熟"
+    "rationale": "AI语音识别技术已能"
   },
   {
     "occupation": "公务员（行政）",
-    "score": 7.0,
+    "score": 6.0,
     "tier": "高",
-    "rationale": "公务员（行政）的许多"
+    "rationale": "公务员（行政）的许多核心"
   },
   {
     "occupation": "公务员（执法）",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI将大幅提升执法公务"
+    "rationale": "AI将显著自动化公务员（"
   },
   {
     "occupation": "海关关员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "海关关员的核心任务如文件"
+    "rationale": "海关关员的许多核心"
   },
   {
     "occupation": "税务局工作人员",
-    "score": 8.0,
-    "tier": "极高",
-    "rationale": "税务局工作人员的许多核心任务"
+    "score": 7.0,
+    "tier": "高",
+    "rationale": "税务局工作人员的核心任务涉及大量数据"
   },
   {
     "occupation": "工商局工作人员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "工商局工作人员的许多核心任务"
+    "rationale": "工商局工作人员的许多核心任务，"
   },
   {
     "occupation": "街道办工作人员",
     "score": 6.0,
     "tier": "高",
-    "rationale": "街道办工作人员的许多"
+    "rationale": "街道办工作人员的许多行政性"
   },
   {
     "occupation": "政策研究员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高效处理海量政策文本"
+    "rationale": "政策研究员的核心任务"
   },
   {
     "occupation": "外交官",
     "score": 5.0,
     "tier": "中等",
-    "rationale": "AI可以辅助外交官"
+    "rationale": "AI能显著辅助外交官进行"
   },
   {
     "occupation": "军人",
-    "score": 5.0,
+    "score": 4.0,
     "tier": "中等",
-    "rationale": "AI将大幅提升军事决策、"
+    "rationale": "AI将显著增强"
   },
   {
     "occupation": "警察",
-    "score": 4.0,
+    "score": 5.0,
     "tier": "中等",
-    "rationale": "AI可辅助警察进行数据分析"
+    "rationale": "AI将显著提升警察在"
   },
   {
     "occupation": "消防员",
-    "score": 1.0,
-    "tier": "极低",
-    "rationale": "消防员的核心工作涉及高度"
+    "score": 2.0,
+    "tier": "低",
+    "rationale": "消防员的核心工作涉及高度不可预测"
   },
   {
     "occupation": "法院工作人员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "法院工作人员的许多核心任务"
+    "rationale": "法院工作人员的许多任务"
   },
   {
     "occupation": "检察院工作人员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "检察院工作人员涉及大量法律研究、"
+    "rationale": "AI能高效辅助检察院工作人员进行"
   },
   {
     "occupation": "城市规划师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "城市规划师的核心任务"
+    "rationale": "AI能极大提升城市规划师在"
   },
   {
     "occupation": "土地管理员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "土地管理员涉及大量数据管理、"
+    "rationale": "土地管理员的核心任务涉及大量数据管理"
   },
   {
     "occupation": "建筑师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高效辅助建筑师进行"
+    "rationale": "AI在参数化设计、生成"
   },
   {
     "occupation": "结构工程师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能显著提升结构分析、"
+    "rationale": "AI能大幅提升结构分析与"
   },
   {
     "occupation": "给排水工程师",
-    "score": 6.0,
+    "score": 7.0,
     "tier": "高",
-    "rationale": "AI能显著自动化给排水工程师的设计"
+    "rationale": "AI能显著辅助给排水工程师"
   },
   {
     "occupation": "暖通工程师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能显著优化暖通设计中的"
+    "rationale": "AI可以显著自动化暖通工程师的设计"
   },
   {
     "occupation": "电气工程师（建筑）",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI可以显著自动化电气工程师的"
+    "rationale": "AI在电气系统设计、负"
   },
   {
     "occupation": "造价工程师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "造价工程师的核心任务涉及大量"
+    "rationale": "造价工程师的核心任务如"
   },
   {
     "occupation": "监理工程师",
     "score": 6.0,
     "tier": "高",
-    "rationale": "监理工程师的部分任务，如文档审核"
+    "rationale": "AI可通过计算机视觉、传感器数据分析"
   },
   {
     "occupation": "施工项目经理",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI在项目规划、进度优化"
+    "rationale": "AI能显著优化施工项目"
   },
   {
     "occupation": "房地产开发经理",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI能显著提升房地产开发经理"
+    "rationale": "房地产开发经理涉及大量数据分析、"
   },
   {
     "occupation": "物业管理员",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI可高度自动化物业费"
+    "rationale": "AI可以自动化物业费收取、"
   },
   {
     "occupation": "测量师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI和自动化技术（如"
+    "rationale": "测量师的现场数据采集"
   },
   {
     "occupation": "岩土工程师",
-    "score": 7.0,
+    "score": 6.0,
     "tier": "高",
-    "rationale": "AI能显著提升岩土工程师"
+    "rationale": "岩土工程师的核心任务涉及大量"
   },
   {
     "occupation": "BIM工程师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "BIM工程师的核心任务，如模型"
+    "rationale": "BIM工程师的核心任务涉及大量"
   },
   {
     "occupation": "机械工程师",
@@ -1641,79 +1641,79 @@
     "occupation": "电气工程师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能大幅提升电气设计"
+    "rationale": "AI能显著辅助电气工程师"
   },
   {
     "occupation": "自动化工程师",
-    "score": 6.0,
+    "score": 7.0,
     "tier": "高",
-    "rationale": "自动化工程师的核心任务涉及复杂系统"
+    "rationale": "自动化工程师的核心任务涉及系统"
   },
   {
     "occupation": "化工工程师",
-    "score": 6.0,
+    "score": 7.0,
     "tier": "高",
-    "rationale": "AI能显著提升化工工程师在过程"
+    "rationale": "AI在化工领域能大幅提升工艺"
   },
   {
     "occupation": "材料工程师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能显著加速材料设计、性能"
+    "rationale": "材料工程师的核心任务涉及数据"
   },
   {
     "occupation": "质量工程师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "质量工程师的核心任务涉及大量数据分析"
+    "rationale": "AI能显著自动化质量数据的"
   },
   {
     "occupation": "工艺工程师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "工艺工程师的核心任务涉及流程设计"
+    "rationale": "AI能显著提升工艺工程师在"
   },
   {
     "occupation": "生产主管",
-    "score": 6.0,
+    "score": 7.0,
     "tier": "高",
-    "rationale": "AI可以显著优化生产计划、"
+    "rationale": "AI能通过优化排"
   },
   {
     "occupation": "车间工人",
-    "score": 6.0,
+    "score": 7.0,
     "tier": "高",
-    "rationale": "车间工人涉及大量重复性"
+    "rationale": "车间工人涉及大量重复"
   },
   {
     "occupation": "焊工",
     "score": 1.0,
     "tier": "极低",
-    "rationale": "焊工的核心任务"
+    "rationale": "焊工的核心任务涉及精"
   },
   {
     "occupation": "数控机床操作工",
-    "score": 7.0,
+    "score": 6.0,
     "tier": "高",
-    "rationale": "数控机床操作工的核心"
+    "rationale": "数控机床操作工的核心任务"
   },
   {
     "occupation": "电工",
     "score": 2.0,
     "tier": "低",
-    "rationale": "电工的核心工作涉及大量"
+    "rationale": "电工的核心工作涉及现场物理"
   },
   {
     "occupation": "仪表工",
-    "score": 5.0,
-    "tier": "中等",
-    "rationale": "AI可以显著提升"
+    "score": 6.0,
+    "tier": "高",
+    "rationale": "AI在预测性维护"
   },
   {
     "occupation": "钳工",
     "score": 3.0,
     "tier": "低",
-    "rationale": "钳工的核心工作涉及"
+    "rationale": "钳工的核心工作涉及高度精密的"
   },
   {
     "occupation": "模具工程师",
@@ -1725,103 +1725,103 @@
     "occupation": "精密制造工程师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI在精密制造领域"
+    "rationale": "精密制造工程师的核心任务"
   },
   {
     "occupation": "半导体工程师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI将大幅提升半导体工程师"
+    "rationale": "AI在半导体设计、"
   },
   {
     "occupation": "芯片设计工程师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI在芯片设计流程中"
+    "rationale": "AI在芯片设计领域能大幅"
   },
   {
     "occupation": "封装测试工程师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能显著辅助封装设计优化"
+    "rationale": "AI在测试程序生成、数据分析"
   },
   {
     "occupation": "新能源工程师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能大幅提升新能源"
+    "rationale": "AI能大幅辅助新能源工程师进行系统"
   },
   {
     "occupation": "电力工程师",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI能显著辅助电力工程师进行设计"
+    "rationale": "电力工程师的设计、模拟、优化和"
   },
   {
     "occupation": "核电工程师",
     "score": 5.0,
     "tier": "中等",
-    "rationale": "核电工程师的核心任务涉及高度"
+    "rationale": "核电工程师的核心任务"
   },
   {
     "occupation": "风电工程师",
-    "score": 7.0,
+    "score": 6.0,
     "tier": "高",
-    "rationale": "AI能大幅优化风电场的"
+    "rationale": "风电工程师在设计优化、性能"
   },
   {
     "occupation": "光伏工程师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能显著优化光"
+    "rationale": "光伏工程师在设计、模拟、"
   },
   {
     "occupation": "储能工程师",
-    "score": 6.0,
+    "score": 7.0,
     "tier": "高",
-    "rationale": "AI能大幅辅助储能系统"
+    "rationale": "AI能显著优化储能系统设计"
   },
   {
     "occupation": "石油工程师",
-    "score": 7.0,
+    "score": 6.0,
     "tier": "高",
-    "rationale": "石油工程师的核心任务涉及大量数据"
+    "rationale": "AI将大幅提升石油勘"
   },
   {
     "occupation": "天然气工程师",
     "score": 6.0,
     "tier": "高",
-    "rationale": "天然气工程师的工作涉及大量数据分析"
+    "rationale": "天然气工程师在设计优化、运行"
   },
   {
     "occupation": "环保工程师",
-    "score": 7.0,
+    "score": 6.0,
     "tier": "高",
-    "rationale": "AI能显著提升环保工程师"
+    "rationale": "AI能显著提升环保工程师在数据"
   },
   {
     "occupation": "碳排放分析师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高效自动化碳排放"
+    "rationale": "AI能高效自动化碳排放数据的收集"
   },
   {
     "occupation": "水务工程师",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI能显著提升水务工程师在"
+    "rationale": "AI可以显著提升水"
   },
   {
     "occupation": "飞行员",
-    "score": 5.0,
+    "score": 4.0,
     "tier": "中等",
-    "rationale": "AI将进一步提升自动驾驶"
+    "rationale": "AI将进一步优化飞行路径、"
   },
   {
     "occupation": "空乘人员",
     "score": 3.0,
     "tier": "低",
-    "rationale": "空乘人员的核心职责是"
+    "rationale": "空乘人员的核心职责是确保"
   },
   {
     "occupation": "航空工程师",
@@ -1831,27 +1831,27 @@
   },
   {
     "occupation": "机场地勤",
-    "score": 6.0,
-    "tier": "高",
-    "rationale": "机场地勤的部分任务如自助"
+    "score": 4.0,
+    "tier": "中等",
+    "rationale": "机场地勤的部分任务如"
   },
   {
     "occupation": "船长",
     "score": 6.0,
     "tier": "高",
-    "rationale": "船长在航行规划、路线"
+    "rationale": "AI在未来5-10年"
   },
   {
     "occupation": "轮机长",
     "score": 4.0,
     "tier": "中等",
-    "rationale": "AI可大幅提升船舶"
+    "rationale": "AI能大幅提升轮"
   },
   {
     "occupation": "港口调度员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "港口调度涉及复杂的物流优化"
+    "rationale": "港口调度员的核心任务涉及复杂的"
   },
   {
     "occupation": "铁路司机",
@@ -1861,87 +1861,87 @@
   },
   {
     "occupation": "地铁司机",
-    "score": 7.0,
-    "tier": "高",
-    "rationale": "地铁司机面临高度自动化风险，许多"
+    "score": 8.0,
+    "tier": "极高",
+    "rationale": "地铁驾驶的核心任务"
   },
   {
     "occupation": "公交司机",
     "score": 4.0,
     "tier": "中等",
-    "rationale": "未来5-10年内"
+    "rationale": "未来5-10"
   },
   {
     "occupation": "货车司机",
-    "score": 7.0,
-    "tier": "高",
-    "rationale": "货车司机面临自动驾驶"
+    "score": 8.0,
+    "tier": "极高",
+    "rationale": "AI在未来5-10"
   },
   {
     "occupation": "网约车司机",
-    "score": 7.0,
-    "tier": "高",
-    "rationale": "网约车司机面临自动驾驶技术"
+    "score": 8.0,
+    "tier": "极高",
+    "rationale": "网约车司机面临自动"
   },
   {
     "occupation": "快递员",
-    "score": 4.0,
+    "score": 5.0,
     "tier": "中等",
-    "rationale": "AI在路线优化、"
+    "rationale": "快递员的核心任务"
   },
   {
     "occupation": "外卖骑手",
-    "score": 3.0,
-    "tier": "低",
-    "rationale": "外卖骑手的核心任务涉及复杂的"
+    "score": 4.0,
+    "tier": "中等",
+    "rationale": "外卖骑手的核心"
   },
   {
     "occupation": "物流规划师",
-    "score": 8.0,
-    "tier": "极高",
-    "rationale": "AI在路线优化、库存"
+    "score": 7.0,
+    "tier": "高",
+    "rationale": "物流规划师的核心任务如路线优化"
   },
   {
     "occupation": "供应链管理",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI在供应链管理中能"
+    "rationale": "AI在需求预测、库存优化"
   },
   {
     "occupation": "仓储管理员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "仓储管理员的核心任务如"
+    "rationale": "仓储管理员的核心任务如库存管理"
   },
   {
     "occupation": "报关员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "报关员的核心任务"
+    "rationale": "AI能高效处理报关单据"
   },
   {
     "occupation": "货运代理",
     "score": 7.0,
     "tier": "高",
-    "rationale": "货运代理的核心任务涉及大量数据"
+    "rationale": "货运代理的许多核心任务，"
   },
   {
     "occupation": "海运操作",
-    "score": 7.0,
-    "tier": "高",
-    "rationale": "海运操作涉及大量标准化文件"
+    "score": 8.0,
+    "tier": "极高",
+    "rationale": "海运操作涉及大量"
   },
   {
     "occupation": "农业技术员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "农业技术员的核心任务"
+    "rationale": "AI在农业领域能通过"
   },
   {
     "occupation": "农业经济师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "农业经济师的核心任务"
+    "rationale": "农业经济师的核心工作涉及大量数据"
   },
   {
     "occupation": "兽医",
@@ -1951,9 +1951,9 @@
   },
   {
     "occupation": "植物保护员",
-    "score": 7.0,
+    "score": 6.0,
     "tier": "高",
-    "rationale": "AI在植物病虫害识别、"
+    "rationale": "AI在植物病虫害"
   },
   {
     "occupation": "食品工程师",
@@ -1965,49 +1965,49 @@
     "occupation": "食品安全检测员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI可大幅提升食品安全检测"
+    "rationale": "AI和自动化技术能显著提升食品"
   },
   {
     "occupation": "食品研发工程师",
-    "score": 7.0,
+    "score": 6.0,
     "tier": "高",
-    "rationale": "AI能通过大数据分析市场"
+    "rationale": "AI能通过大数据分析市场趋势"
   },
   {
     "occupation": "厨师",
     "score": 3.0,
     "tier": "低",
-    "rationale": "AI在食材准备和标准化烹"
+    "rationale": "AI在食材准备、标准化烹"
   },
   {
     "occupation": "糕点师",
-    "score": 4.0,
-    "tier": "中等",
-    "rationale": "糕点师的创意设计、"
+    "score": 3.0,
+    "tier": "低",
+    "rationale": "糕点师的核心工作涉及"
   },
   {
     "occupation": "茶艺师",
     "score": 3.0,
     "tier": "低",
-    "rationale": "茶艺师的核心价值在于其"
+    "rationale": "茶艺师的核心价值在于"
   },
   {
     "occupation": "品酒师",
     "score": 4.0,
     "tier": "中等",
-    "rationale": "AI可以通过传感器和数据"
+    "rationale": "AI可以辅助品酒师进行"
   },
   {
     "occupation": "农场管理员",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI和物联网技术将"
+    "rationale": "农场管理员的核心任务"
   },
   {
     "occupation": "水产养殖技术员",
     "score": 5.0,
     "tier": "中等",
-    "rationale": "AI在水质监测、"
+    "rationale": "AI可以显著提升水产养"
   },
   {
     "occupation": "酒店前台",
@@ -2017,123 +2017,123 @@
   },
   {
     "occupation": "酒店经理",
-    "score": 6.0,
-    "tier": "高",
-    "rationale": "AI将大幅优化酒店的运营"
+    "score": 5.0,
+    "tier": "中等",
+    "rationale": "AI能辅助酒店经理进行数据"
   },
   {
     "occupation": "餐厅经理",
-    "score": 5.0,
-    "tier": "中等",
-    "rationale": "AI可以自动化餐厅经理的部分任务"
+    "score": 6.0,
+    "tier": "高",
+    "rationale": "AI可以高度自动化餐厅经理的"
   },
   {
     "occupation": "服务员",
-    "score": 6.0,
-    "tier": "高",
-    "rationale": "服务员的部分核心任务如点"
+    "score": 5.0,
+    "tier": "中等",
+    "rationale": "AI和机器人可以自动化点餐"
   },
   {
     "occupation": "导游",
-    "score": 5.0,
-    "tier": "中等",
-    "rationale": "AI可以高效提供景点"
+    "score": 6.0,
+    "tier": "高",
+    "rationale": "AI能高效提供景点信息、"
   },
   {
     "occupation": "旅游顾问",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高效完成信息收集、行程"
+    "rationale": "AI能高效处理信息"
   },
   {
     "occupation": "旅行社运营",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高度自动化行程规划、机票"
+    "rationale": "AI能高度自动化行程规划"
   },
   {
     "occupation": "理发师/美发师",
     "score": 2.0,
     "tier": "低",
-    "rationale": "理发师的核心工作涉及精细"
+    "rationale": "理发师的核心工作涉及"
   },
   {
     "occupation": "美容师",
-    "score": 3.0,
-    "tier": "低",
-    "rationale": "美容师的核心工作涉及大量精"
+    "score": 4.0,
+    "tier": "中等",
+    "rationale": "AI在皮肤分析、"
   },
   {
     "occupation": "化妆师",
     "score": 4.0,
     "tier": "中等",
-    "rationale": "AI在化妆师职业中直接"
+    "rationale": "AI可以辅助化妆"
   },
   {
     "occupation": "健身教练",
     "score": 5.0,
     "tier": "中等",
-    "rationale": "AI能辅助制定个性化训练"
+    "rationale": "AI可以辅助健身教练"
   },
   {
     "occupation": "瑜伽教练",
     "score": 4.0,
     "tier": "中等",
-    "rationale": "AI可以辅助瑜伽教学"
+    "rationale": "AI可以提供高质量的体式"
   },
   {
     "occupation": "营养健身顾问",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI可以高效分析客户"
+    "rationale": "AI可以高效分析客户的"
   },
   {
     "occupation": "家政服务员",
-    "score": 2.0,
+    "score": 3.0,
     "tier": "低",
-    "rationale": "家政服务员的核心"
+    "rationale": "家政服务员的核心任务"
   },
   {
     "occupation": "月嫂",
-    "score": 2.0,
+    "score": 3.0,
     "tier": "低",
-    "rationale": "月嫂的核心工作涉及高度的"
+    "rationale": "月嫂的核心工作涉及"
   },
   {
     "occupation": "育婴师",
-    "score": 3.0,
+    "score": 2.0,
     "tier": "低",
-    "rationale": "育婴师的核心工作涉及大量身体"
+    "rationale": "育婴师的核心工作涉及大量"
   },
   {
     "occupation": "养老护理员",
     "score": 3.0,
     "tier": "低",
-    "rationale": "养老护理员的核心工作"
+    "rationale": "养老护理员的核心工作涉及"
   },
   {
     "occupation": "宠物医生",
     "score": 5.0,
     "tier": "中等",
-    "rationale": "AI可以辅助宠物医生"
+    "rationale": "AI可以辅助宠物"
   },
   {
     "occupation": "宠物美容师",
     "score": 3.0,
     "tier": "低",
-    "rationale": "宠物美容师的核心工作涉及对"
+    "rationale": "宠物美容涉及大量精细的手工"
   },
   {
     "occupation": "宠物训练师",
-    "score": 3.0,
-    "tier": "低",
-    "rationale": "宠物训练的核心在于与"
+    "score": 4.0,
+    "tier": "中等",
+    "rationale": "AI可以辅助宠物训练师分析"
   },
   {
     "occupation": "婚礼策划师",
     "score": 5.0,
     "tier": "中等",
-    "rationale": "AI可以辅助婚礼策划"
+    "rationale": "AI可以自动化婚礼策划中的部分"
   },
   {
     "occupation": "活动策划师",
@@ -2145,79 +2145,79 @@
     "occupation": "会展策划师",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI能高效辅助会展策划师"
+    "rationale": "AI可自动化会展策划"
   },
   {
     "occupation": "保安",
-    "score": 4.0,
+    "score": 5.0,
     "tier": "中等",
-    "rationale": "AI在监控、门"
+    "rationale": "AI视觉识别、"
   },
   {
     "occupation": "保洁员",
     "score": 1.0,
     "tier": "极低",
-    "rationale": "保洁员的核心"
+    "rationale": "保洁员的核心任务"
   },
   {
     "occupation": "停车场管理员",
     "score": 9.0,
     "tier": "极高",
-    "rationale": "停车场管理员的核心任务，如车辆"
+    "rationale": "停车场管理员的核心任务，如"
   },
   {
     "occupation": "零售店长",
-    "score": 6.0,
-    "tier": "高",
-    "rationale": "AI将通过智能库存管理、"
+    "score": 5.0,
+    "tier": "中等",
+    "rationale": "AI可以自动化库存"
   },
   {
     "occupation": "零售销售员",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI可大幅自动化零售销售员的部分"
+    "rationale": "AI将通过智能推荐系统"
   },
   {
     "occupation": "超市收银员",
     "score": 9.0,
     "tier": "极高",
-    "rationale": "超市收银员的核心任务（"
+    "rationale": "超市收银员"
   },
   {
     "occupation": "商品采购员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高效分析市场趋势"
+    "rationale": "AI能高效分析市场趋势、销售"
   },
   {
     "occupation": "买手",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能极大提升买手在市场"
+    "rationale": "AI能高效分析市场趋势、"
   },
   {
     "occupation": "奢侈品顾问",
     "score": 5.0,
     "tier": "中等",
-    "rationale": "AI可以提供个性"
+    "rationale": "AI能辅助奢侈品"
   },
   {
     "occupation": "药店药剂师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "药店药剂师的处方"
+    "rationale": "AI能高效自动化处方核"
   },
   {
     "occupation": "眼镜验光师",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI可以高度自动化客观验光"
+    "rationale": "AI在视力检测"
   },
   {
     "occupation": "AI提示词工程师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI提示词工程师的核心工作是与"
+    "rationale": "AI提示词工程师本身就是"
   },
   {
     "occupation": "AI产品经理",
@@ -2227,81 +2227,81 @@
   },
   {
     "occupation": "AIGC内容创作者",
-    "score": 7.0,
+    "score": 6.0,
     "tier": "高",
-    "rationale": "AIGC内容创作者的核心"
+    "rationale": "AIGC内容创作者本身"
   },
   {
     "occupation": "数字人运营",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "数字人运营的核心任务"
+    "rationale": "数字人运营的核心任务，如"
   },
   {
     "occupation": "元宇宙设计师",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "AI在3D建模、"
+    "rationale": "AI在3D建模"
   },
   {
     "occupation": "NFT艺术家",
     "score": 8.0,
     "tier": "极高",
-    "rationale": "AI在艺术创作领域展现"
+    "rationale": "AI在图像、动画和"
   },
   {
     "occupation": "碳资产管理师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "碳资产管理师的核心工作涉及大量"
+    "rationale": "碳资产管理涉及大量数据分析、"
   },
   {
     "occupation": "ESG分析师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "ESG分析师的核心任务涉及大量数据"
+    "rationale": "AI在数据收集、初步分析和"
   },
   {
     "occupation": "可持续发展顾问",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI能高效自动化可持续发展数据的收集"
+    "rationale": "AI能高效处理海"
   },
   {
     "occupation": "无人机操作员",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI将大幅提升无人"
+    "rationale": "无人机操作的核心任务，如航"
   },
   {
     "occupation": "自动驾驶测试工程师",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI将大幅提升测试用"
+    "rationale": "AI将大幅提升测试用例生成"
   },
   {
     "occupation": "机器人工程师",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI将大幅提升机器人工程师在设计"
+    "rationale": "AI将成为机器人工程师的"
   },
   {
     "occupation": "智能硬件产品经理",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI能大幅辅助市场分析、"
+    "rationale": "AI能大幅辅助市场调研、"
   },
   {
     "occupation": "知识付费博主",
-    "score": 8.0,
-    "tier": "极高",
-    "rationale": "AI能极大地自动化知识"
+    "score": 7.0,
+    "tier": "高",
+    "rationale": "AI能极大地辅助知识付费博"
   },
   {
     "occupation": "私域运营专家",
     "score": 7.0,
     "tier": "高",
-    "rationale": "私域运营专家涉及"
+    "rationale": "AI能高效生成个性化"
   },
   {
     "occupation": "独立游戏开发者",
@@ -2313,24 +2313,24 @@
     "occupation": "Vtuber虚拟主播",
     "score": 7.0,
     "tier": "高",
-    "rationale": "AI在虚拟形象生成、实时动画"
+    "rationale": "AI可以大幅提升Vtuber"
   },
   {
     "occupation": "陪诊师",
-    "score": 4.0,
-    "tier": "中等",
-    "rationale": "AI可以辅助预约挂号"
+    "score": 3.0,
+    "tier": "低",
+    "rationale": "陪诊师的核心价值在于提供"
   },
   {
     "occupation": "心理健康顾问（线上）",
     "score": 6.0,
     "tier": "高",
-    "rationale": "AI可自动化部分信息收集、情绪"
+    "rationale": "AI可以自动化部分信息收集、情绪"
   },
   {
     "occupation": "冥想教练",
-    "score": 6.0,
-    "tier": "高",
-    "rationale": "AI可以高度自动化冥想引导、"
+    "score": 4.0,
+    "tier": "中等",
+    "rationale": "AI可以提供大量个性化冥"
   }
 ]
